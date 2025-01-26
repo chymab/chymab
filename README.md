@@ -1,5 +1,5 @@
-# I'm Mabel
-# I'm interested in Tech
+# I'm Mabel.
+# I'm interested in Tech.
 # I’m currently learning data analytics...
 # I’m looking to collaborate online with other high profile individuals in tech inorder to upgrade myself and opt for team work. 
 # you can reach me on 08051122551 or other social platforms at mabel ivy
