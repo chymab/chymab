@@ -1,5 +1,7 @@
-##### I'm Mabel.
-##### I'm interested in Tech.
+#Hi Dear.
+##This is Ivoke Mabel c
+#####I'm a prospective Data Analyst.
+##### I'm in love with technology and its diversity.
 ##### I’m currently learning data analytics and i wish to dive deep into it.
 ##### I’m looking to collaborate online with other high profile individuals in tech inorder to upgrade myself and opt for team work. 
 ##### you can reach me on social platforms on twitter@chymab20,on instagram@Ivoke Mabel,on facebook@Mabel Ivy
